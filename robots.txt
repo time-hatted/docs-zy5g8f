@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-we6ov8.plcwin.xyz/sitemap.xml
